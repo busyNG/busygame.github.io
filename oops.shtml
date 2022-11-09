@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>You broke it..</title>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+  </head>
+  <body>
+  <h1>Oh NO!</h1>
+<p>This page doesnt exist ):</p>
+  
+  </body>
+</html>
